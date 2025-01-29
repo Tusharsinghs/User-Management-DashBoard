@@ -1,4 +1,7 @@
 User Management Dashboard
+
+
+
 This User Management Dashboard Application is a Responsive Web Application built using React JS and Tailwind CSS, The Application consists of 2 Tabs, User Details and Account Creation The User Details tab will display user information fetched from a database (JSON File) in a searchable table format, allowing users to search for specific entries. The Account Creation tab will consist of a form for username and password input.
 
 Features
